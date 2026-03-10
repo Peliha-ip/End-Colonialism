@@ -69,6 +69,8 @@ Items:
 - Bluebuck DNA
 - Beetroot on a stick
 - Montreal melon seeds
+- Grappling hook
+- Enderlauncher
 - Bucket of enderfish
 - Bucket of shimmerfish
 - Blastling spawn egg
@@ -193,11 +195,13 @@ Food:
 
 Features:
 - Endermites can weave end cocoons and then pupate into endermoths.
-- Endercats can be tamed with chorus fruits or enderfish. Unlike normal cats, they are immune to projectiles, and when a player falls in the void, instead of dying, you teleport right next to it.
+- Endercats can be tamed with chorus fruits or enderfish. Unlike normal cats, they are immune to projectiles, and when a player falls in the void, instead of dying, they teleport right next to it.
 - Smelting voidwood logs can create endcoal while also having endcoal as a common fuel ore in the end.
 - Beetroot on a stick can be used to steer the glidling.
 - End towns are settlements made from ancient humanoids long ago, comparable to villagers. They are so used to the end that they adapted to it, like picture villagers who look like endermen.
 - Endermites turn into end cocoons instead of despawning.
+- Enderlaunchers can be used to launch ender pearls and ender eyes.
+- Grappling hooks can be used for navigation, like latching on blocks. Useful when the risk of falling is very high.
 
 Advancements:
 - Wakey, Wakey (Hatch a dodo egg)
@@ -208,3 +212,4 @@ Advancements:
 - Who Said Black Cats Brought Bad Luck? (Have a tamed endercat teleport you back when you fall in the void)
 - No Need For Independence (Enter an end town)
 - Je Me Souviens (Harvest Montreal melons)
+- Hop, Hop, Hop, Enderpearl (Launch an ender pearl with an enderlauncher)
