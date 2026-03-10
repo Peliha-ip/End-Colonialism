@@ -68,4 +68,4 @@ Food:
 
 Features:
 - Endermites can weave end cocoons and then pupate into endermoths.
-- Endercats can be tamed with chorus fruits or enderfish. Unlike normal cats, they are immune to projectiles, and when a player falls in the void, instead of dying, 
+- Endercats can be tamed with chorus fruits or enderfish. Unlike normal cats, they are immune to projectiles, and when a player falls in the void, instead of dying, you teleport right next to it.
