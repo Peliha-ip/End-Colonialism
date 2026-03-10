@@ -9,12 +9,68 @@ Mobs:
 - Endermoth
 - Endercat
 - Enderfish
+- Glidling
+- Enderavian
+- Enderbear
+- Crystal tortoise
+- Shimmerfish
+- Enderrat
+- Enderfly
+- Enderpig
+- Enderdog
+- Enderrabbit
 - Dodo
+- Platinum golem
+- Colonist
+- Great auk
+- Kakapo
+- Kauaʻi ʻōʻō
+- Passenger pigeon
+- Parakeet
 
 Items:
 - Silk
 - Chorus crystal shards
+- Voidwood boat
+- Voidwood boat with chest
+- Endcoal
+- Endium
+- Platinum ingot
+- Enderite ingot
+- Enderite scrap
+- Enderite upgrade
+- Platinum nugget
+- Raw platinum
+- Platinum axe
+- Platinum hoe
+- Platinum pickaxe
+- Platinum shovel
+- Platinum spear
+- Platinum sword
+- Platinum helmet
+- Platinum chestplate
+- Platinum leggings
+- Platinum boots
+- Platinum horse armor
+- Platinum nautilus armor
+- Enderite axe
+- Enderite hoe
+- Enderite pickaxe
+- Enderite shovel
+- Enderite spear
+- Enderite sword
+- Enderite helmet
+- Enderite chestplate
+- Enderite leggings
+- Enderite boots
+- Enderite horse armor
+- Enderite nautilus armor
+- Bluebuck husk
+- Bluebuck DNA
+- Beetroot on a stick
+- Montreal melon seeds
 - Bucket of enderfish
+- Bucket of shimmerfish
 - Blastling spawn egg
 - Endersent spawn egg
 - Snareling spawn egg
@@ -22,7 +78,25 @@ Items:
 - Endermoth spawn egg
 - Endercat spawn egg
 - Enderfish spawn egg
+- Glidling spawn egg
+- Enderavian spawn egg
+- Enderbear spawn egg
+- Crystal tortoise spawn egg
+- Shimmerfish spawn egg
+- Enderrat spawn egg
+- Enderfly spawn egg
+- Enderpig spawn egg
+- Enderdog spawn egg
+- Enderrabbit spawn egg
 - Dodo spawn egg
+- Platinum golem spawn egg
+- Colonist spawn egg
+- Great auk spawn egg
+- Kakapo spawn egg
+- Kauaʻi ʻōʻō spawn egg
+- Bluebuck spawn egg
+- Passenger pigeon spawn egg
+- Parakeet spawn egg
 
 Blocks:
 - End cocoon
@@ -30,6 +104,52 @@ Blocks:
 - End torch
 - Chorus crystal block
 - Dodo egg
+- Great hawk egg
+- Kakapo egg
+- Kauaʻi ʻōʻō egg
+- Passenger pigeon egg
+- Bluebuck egg
+- Bluebuck reviver
+- Voidroot
+- Crystal reeds
+- Chorus moss
+- Lantern pods
+- Chorus cactus
+- Voidwood log
+- Voidwood wood
+- Voidwood planks
+- Voidwood door
+- Voidwood trapdoor
+- Voidwood slab
+- Voidwood stairs
+- Voidwood fence
+- Voidwood fence gate
+- Voidwood button
+- Voidwood pressure plate
+- Voidwood sign
+- Voidwood shelf
+- Stripped voidwood log
+- Stripped voidwood wood
+- Hanging voidwood sign
+- Endcoal ore
+- Endcoal block
+- End endium ore
+- block of endium
+- Endium pillar
+- Chiseled endium
+- Smooth endium block
+- Endium bricks
+- Colonial debris
+- Enderite block
+- End platinum ore
+- Block of platinum
+- Block of raw platinum
+- Platinum door
+- Platinum trapdoor
+- Platinum torch
+- Platinum bars
+- Platinum chain
+- Montreal melon block
 
 Biomes:
 - Chorus groves
@@ -59,13 +179,32 @@ Structures:
 - End gate fortress
 - End islet
 - End lake
+- Territory beacon
+- Colony supply crates
+- End town
+- End fossils
 
 Food:
 - Raw enderfish
 - Cooked enderfish
 - Raw dodo
 - Cooked dodo
+- Montreal melon slice
 
 Features:
 - Endermites can weave end cocoons and then pupate into endermoths.
 - Endercats can be tamed with chorus fruits or enderfish. Unlike normal cats, they are immune to projectiles, and when a player falls in the void, instead of dying, you teleport right next to it.
+- Smelting voidwood logs can create endcoal while also having endcoal as a common fuel ore in the end.
+- Beetroot on a stick can be used to steer the glidling.
+- End towns are settlements made from ancient humanoids long ago, comparable to villagers. They are so used to the end that they adapted to it, like picture villagers who look like endermen.
+- Endermites turn into end cocoons instead of despawning.
+
+Advancements:
+- Wakey, Wakey (Hatch a dodo egg)
+- Mega Tear Jerker (Hatch a Kauaʻi ʻōʻō egg)
+- Silky Road (Have an endermite turn into an egg cocoon)
+- Pretty Butterfly (Have an egg cocoon pupate into an endermoth)
+- Are Endermen Cats or Endercats Endermen? (Tame an endercat)
+- Who Said Black Cats Brought Bad Luck? (Have a tamed endercat teleport you back when you fall in the void)
+- No Need For Independence (Enter an end town)
+- Je Me Souviens (Harvest Montreal melons)
