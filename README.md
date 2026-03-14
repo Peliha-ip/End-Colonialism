@@ -100,7 +100,6 @@ Items:
 - Bluebuck spawn egg
 - Passenger pigeon spawn egg
 - Parakeet spawn egg
-- Bluebuck spawn egg
 
 Blocks:
 - End cocoon
@@ -153,6 +152,7 @@ Blocks:
 - Platinum torch
 - Platinum bars
 - Platinum chain
+- Platinum lantern
 - Montreal melon block
 
 Biomes:
