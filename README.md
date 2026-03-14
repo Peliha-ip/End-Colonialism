@@ -200,10 +200,10 @@ Features:
 - Endercats can be tamed with chorus fruits or enderfish. Unlike normal cats, they are immune to projectiles, and when a player falls in the void, instead of dying, they teleport right next to it.
 - Smelting voidwood logs can create endcoal while also having endcoal as a common fuel ore in the end.
 - Beetroot on a stick can be used to steer the glidling.
-- End towns are settlements made by ancient humanoids long ago, comparable to villagers. They are so used to the end that they adapted to it, like picture villagers who look like endermen.
+- End towns are settlements made by ancient humanoids long ago, comparable to the villagers from the villages. They are so used to the end that they adapted to it, like picture villagers who look like endermen.
 - Endermites turn into end cocoons instead of despawning.
 - Enderlaunchers can be used to launch ender pearls and ender eyes.
-- Grappling hooks can be used for navigation, like latching on blocks. Useful when the risk of falling is very high.
+- Grappling hooks can be used for navigation, like latching onto blocks. Useful when the risk of falling is very high.
 
 Advancements:
 - Wakey, Wakey (Hatch a dodo egg)
