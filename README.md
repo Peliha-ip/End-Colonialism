@@ -154,6 +154,7 @@ Blocks:
 - Platinum chain
 - Platinum lantern
 - Montreal melon block
+- Montreal melon stem
 
 Biomes:
 - Chorus groves
